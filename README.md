@@ -1,1 +1,1 @@
-# learning-nextjs
+# ecommerce-admin
